@@ -6,7 +6,7 @@
  * Description:     
  * Author:          Brian Penner
  * Author URI:      https://www.planetnine.tech/
- * Text Domain:     plugin-notes
+ * Text Domain:     wp-plugin-notes
  * Domain Path:     /languages
  * Version:          0.1.0
  *
